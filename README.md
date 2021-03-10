@@ -1,4 +1,4 @@
-# EDA-Kaggle-Tasks
+# EDA-Kaggle-Sales Data
 
 Exploratory Data Analysis of a dataset from Kaggle using pandas
 
